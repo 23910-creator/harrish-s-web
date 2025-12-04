@@ -1,2 +1,10 @@
-# harrish-s-web
-harrish_portfolio_final
+# Harrish Portfolio
+
+Run:
+
+```
+npm install
+npm run dev
+```
+
+Place your final App.jsx from the canvas into src/App.jsx to replace placeholder.
